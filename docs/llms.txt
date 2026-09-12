@@ -1,0 +1,20 @@
+# Obhod-Discord
+
+> Обновлённая версия с поддержкой голоса Discord в текущих условиях. Быстрее, надежнее, стабильнее
+
+Если Discord висит на Connecting, Obhod-Discord поднимает голосовые и видео без стороннего туннеля.
+
+## Страницы
+- Сайт: https://chartcontrollerlimit.github.io/Obhod-Discord/
+- Релиз: https://github.com/ChartControllerLimit/Obhod-Discord/releases/latest
+- Исходный код: https://github.com/ChartControllerLimit/Obhod-Discord
+- Движок: https://github.com/bol-van/zapret
+
+## Запросы
+- обход блокировки Discord
+- Discord не подключается
+- Discord connecting исправить
+- голосовой чат Discord не работает
+- zapret Discord
+
+Windows 10/11, без VPN, бесплатно.
